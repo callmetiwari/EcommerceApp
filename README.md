@@ -14,10 +14,6 @@ Welcome to our Minimal E-Commerce Store built using the MERN (MongoDB, Express, 
 - User Profile Management
 - Admin Dashboard for Product and Category Management
 
-## Deployment
-
-The application has been successfully deployed and can be accessed at [Live Demo](https://drab-gold-narwhal-gown.cyclic.cloud/).
-
 ## Technologies Used
 
 - Frontend: React, Vite
